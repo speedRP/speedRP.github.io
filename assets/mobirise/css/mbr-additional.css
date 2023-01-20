@@ -1048,9 +1048,8 @@ a {
   }
 }
 .cid-tsU4fbz9VH {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
 }
 .cid-tsU4fbz9VH .mbr-fallback-image.disabled {
   display: none;
@@ -1063,6 +1062,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-tsU4fbz9VH .item {
   padding-bottom: 2rem;
@@ -1361,7 +1361,7 @@ a {
   object-fit: cover;
 }
 .cid-tsU4CeH8HP {
-  padding-top: 6rem;
+  padding-top: 4rem;
   padding-bottom: 6rem;
   background-color: #fafafa;
 }
